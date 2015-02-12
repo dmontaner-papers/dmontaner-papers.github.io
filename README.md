@@ -1,5 +1,3 @@
-David Montaner's papers repository
-==================================
 
 Here you can find links to the scripts, materials and supplementary files I created for some of my papers.
 
